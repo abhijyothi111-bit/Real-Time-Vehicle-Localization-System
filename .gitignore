@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+*.pyo
+*.swp
+
+.venv/
+venv/
+uwb_venv/
+
+build/
+install/
+log/
+
+*.bag
